@@ -6,7 +6,12 @@
     },
     {
         "data_index":1,
-        "name":"example1",
-        "term":7
+        "name":"KYama",
+        "term":5
+    },
+    {
+        "data_index":2,
+        "name":"落雁",
+        "term":6
     }
 ]
